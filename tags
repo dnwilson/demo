@@ -42,12 +42,14 @@ id	db.json	/^      "id": 2,$/;"	f
 id	db.json	/^      "id": 3,$/;"	f
 id	db.json	/^      "id": 5,$/;"	f
 id	db.json	/^      "id": 7,$/;"	f
+id	db.json	/^      "id": 8,$/;"	f
 id	db.json	/^      "id": 9,$/;"	f
 international_swagg	db.json	/^  "international_swagg": [$/;"	f
 logo	db.json	/^            "logo": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t1.0-9\/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"$/;"	f
 logo	db.json	/^            "logo": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"$/;"	f
 name	db.json	/^            "name": "NiteLifeBuzz",$/;"	f
 name	db.json	/^            "name": "Runnaz Magnificent Photos",$/;"	f
+name	db.json	/^          "name": "International Swagg Highlight",$/;"	f
 name	db.json	/^          "name": "NiteLifeBuzz",$/;"	f
 name	db.json	/^          "name": "Ovadose 2017",$/;"	f
 name	db.json	/^          "name": "Ovadose",$/;"	f
@@ -67,10 +69,12 @@ name	db.json	/^      "name": "Ovadose 2018",$/;"	f
 name	db.json	/^      "name": "Pink",$/;"	f
 ovadose	db.json	/^  "ovadose": [$/;"	f
 packages	db.json	/^      "packages": [$/;"	f
+packages	db.json	/^      "packages": []$/;"	f
 photo_galleries	db.json	/^      "photo_galleries": [$/;"	f
+photo_galleries	db.json	/^      "photo_galleries": [],$/;"	f
 photographer	db.json	/^          "photographer": {$/;"	f
 pink	db.json	/^  "pink": [$/;"	f
-sos	db.json	/^  "sos": [$/;"	f
+sos	db.json	/^  "sos": []$/;"	f
 state	db.json	/^        "state": "Kingston",$/;"	f
 street	db.json	/^        "street": "15 York Ave",$/;"	f
 street	db.json	/^        "street": "23 Half Way Tree Road",$/;"	f
@@ -84,3 +88,4 @@ video_image	db.json	/^          "video_image": "http:\/\/img.youtube.com\/vi\/h1
 video_link	db.json	/^          "video_link": "YEQlaE_tgy0",$/;"	f
 video_link	db.json	/^          "video_link": "h1d-FS1hrF0",$/;"	f
 videos	db.json	/^      "videos": [$/;"	f
+videos	db.json	/^      "videos": [],$/;"	f

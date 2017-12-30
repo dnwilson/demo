@@ -15,34 +15,9 @@
       "description": "",
       "flyer": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25007044_1736183533099812_2919328286574116864_n.jpg",
       "date": "2018-03-30",
-      "videos": [
-
-      ],
-      "photo_galleries": [
-        {
-          "id": 1,
-          "gallery_id": "1311055632282429",
-          "name": "NiteLifeBuzz",
-          "photographer": {
-            "id": 1,
-            "name": "NiteLifeBuzz",
-            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
-          }
-        },
-        {
-          "id": 2,
-          "gallery_id": "13110556322239028",
-          "name": "Runnaz Magnificent Photos",
-          "photographer": {
-            "id": 2,
-            "name": "Runnaz Magnificent Photos",
-            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
-          }
-        },
-      ],
-      "packages": [
-
-      ]
+      "videos": [],
+      "photo_galleries": [],
+      "packages": []
     },
     {
       "id": 2,
@@ -60,7 +35,13 @@
       "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/15000651_10100247187617895_5084240487115393336_o.jpg?oh=30894bb605eb4cc7e0ad0b2764068ac0&oe=5AF84A68",
       "date": "2017-04-14",
       "videos": [
-
+        {
+          "id": 1,
+          "name": "International Swagg Highlight",
+          "video_link": "YEQlaE_tgy0",
+          "video_image": "http://img.youtube.com/vi/YEQlaE_tgy0/hqdefault.jpg",
+          "event_id": 7
+        }
       ],
       "photo_galleries": [
         {
@@ -84,9 +65,7 @@
           }
         },
       ],
-      "packages": [
-
-      ]
+      "packages": []
     },
     {
       "id": 3,
@@ -103,9 +82,7 @@
       "description": "",
       "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/12052543_10100124395793695_1965978597515231083_o.jpg?oh=841ab41d7c07926116eae02b91e7e156&oe=5AC21EF5",
       "date": "2016-03-25",
-      "videos": [
-
-      ],
+      "videos": [],
       "photo_galleries": [
         {
           "id": 1,
@@ -128,9 +105,7 @@
           }
         },
       ],
-      "packages": [
-
-      ]
+      "packages": []
     },
   ],
   "ovadose": [
@@ -157,7 +132,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 8,
       "name": "Ovadose 2017",
       "venue": {
         "id": 4,
@@ -203,7 +178,6 @@
         },
       ],
       "packages": [
-
       ]
     },
     {
@@ -305,10 +279,8 @@
         },
       ],
       "packages": [
-
       ]
     }
   ],
-  "sos": [
-  ]
+  "sos": []
 }
