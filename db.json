@@ -1,0 +1,314 @@
+{
+  "international_swagg": [
+    {
+      "id": 1,
+      "name": "International Swagg 2018",
+      "venue": {
+        "id": 1,
+        "name": "Damage Control HQ",
+        "street": "15 York Ave",
+        "street_details": "",
+        "city": "Cockburn Pen",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25007044_1736183533099812_2919328286574116864_n.jpg",
+      "date": "2018-03-30",
+      "videos": [
+
+      ],
+      "photo_galleries": [
+        {
+          "id": 1,
+          "gallery_id": "1311055632282429",
+          "name": "NiteLifeBuzz",
+          "photographer": {
+            "id": 1,
+            "name": "NiteLifeBuzz",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
+          }
+        },
+        {
+          "id": 2,
+          "gallery_id": "13110556322239028",
+          "name": "Runnaz Magnificent Photos",
+          "photographer": {
+            "id": 2,
+            "name": "Runnaz Magnificent Photos",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
+          }
+        },
+      ],
+      "packages": [
+
+      ]
+    },
+    {
+      "id": 2,
+      "name": "International Swagg 2017",
+      "venue": {
+        "id": 1,
+        "name": "Damage Control HQ",
+        "street": "15 York Ave",
+        "street_details": "",
+        "city": "Cockburn Pen",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/15000651_10100247187617895_5084240487115393336_o.jpg?oh=30894bb605eb4cc7e0ad0b2764068ac0&oe=5AF84A68",
+      "date": "2017-04-14",
+      "videos": [
+
+      ],
+      "photo_galleries": [
+        {
+          "id": 1,
+          "gallery_id": "1311055632282429",
+          "name": "NiteLifeBuzz",
+          "photographer": {
+            "id": 1,
+            "name": "NiteLifeBuzz",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
+          }
+        },
+        {
+          "id": 2,
+          "gallery_id": "13110556322239028",
+          "name": "Runnaz Magnificent Photos",
+          "photographer": {
+            "id": 2,
+            "name": "Runnaz Magnificent Photos",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
+          }
+        },
+      ],
+      "packages": [
+
+      ]
+    },
+    {
+      "id": 3,
+      "name": "International Swagg 2016",
+      "venue": {
+        "id": 1,
+        "name": "Damage Control HQ",
+        "street": "15 York Ave",
+        "street_details": "",
+        "city": "Cockburn Pen",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/12052543_10100124395793695_1965978597515231083_o.jpg?oh=841ab41d7c07926116eae02b91e7e156&oe=5AC21EF5",
+      "date": "2016-03-25",
+      "videos": [
+
+      ],
+      "photo_galleries": [
+        {
+          "id": 1,
+          "gallery_id": "1311055632282429",
+          "name": "NiteLifeBuzz",
+          "photographer": {
+            "id": 1,
+            "name": "NiteLifeBuzz",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
+          }
+        },
+        {
+          "id": 2,
+          "gallery_id": "13110556322239028",
+          "name": "Runnaz Magnificent Photos",
+          "photographer": {
+            "id": 2,
+            "name": "Runnaz Magnificent Photos",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
+          }
+        },
+      ],
+      "packages": [
+
+      ]
+    },
+  ],
+  "ovadose": [
+    {
+      "id": 9,
+      "name": "Ovadose 2018",
+      "venue": {
+        "id": 4,
+        "name": "Next Yard",
+        "street": "23 Half Way Tree Road",
+        "street_details": "",
+        "city": "",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/24958960_10154860653021104_3079696981149327056_o.jpg?oh=b105623191eb1b746c3918685376ec38&oe=5AF39857",
+      "date": "2018-03-31",
+      "videos": [
+      ],
+      "photo_galleries": [
+      ],
+      "packages": [
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Ovadose 2017",
+      "venue": {
+        "id": 4,
+        "name": "Enid Anglin Center",
+        "street": "Next to Admiral Town Police Station",
+        "street_details": "",
+        "city": "",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/15732035_10153987063191104_9162910928908976148_o.jpg?oh=913cd86b7e4360935f34db0522ae669e&oe=5AB807E0",
+      "date": "2017-03-30",
+      "videos": [
+        {
+          "id": 4,
+          "name": "Ovadose 2017",
+          "video_link": "h1d-FS1hrF0",
+          "video_image": "http://img.youtube.com/vi/h1d-FS1hrF0/hqdefault.jpg",
+          "event_id": 4
+        }
+      ],
+      "photo_galleries": [
+        {
+          "id": 1,
+          "gallery_id": "1311055632282429",
+          "name": "NiteLifeBuzz",
+          "photographer": {
+            "id": 1,
+            "name": "NiteLifeBuzz",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
+          }
+        },
+        {
+          "id": 2,
+          "gallery_id": "13110556322239028",
+          "name": "Runnaz Magnificent Photos",
+          "photographer": {
+            "id": 2,
+            "name": "Runnaz Magnificent Photos",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
+          }
+        },
+      ],
+      "packages": [
+
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ovadose 2016",
+      "venue": {
+        "id": 3,
+        "name": "Steve Madden Plaze",
+        "street": "23 Orange Street",
+        "street_details": "",
+        "city": "",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/p960x960/12819323_10153298704596104_6284030011554547434_o.jpg?oh=53cd8e62cc20d1a838511b3496f9af97&oe=5AF4294E",
+      "date": "2016-03-26",
+      "videos": [
+        {
+          "id": 7,
+          "name": "Ovadose",
+          "video_link": "h1d-FS1hrF0",
+          "video_image": "http://img.youtube.com/vi/h1d-FS1hrF0/hqdefault.jpg",
+          "event_id": 5
+        }
+      ],
+      "photo_galleries": [
+        {
+          "id": 1,
+          "gallery_id": "1311055632282429",
+          "name": "NiteLifeBuzz",
+          "photographer": {
+            "id": 1,
+            "name": "NiteLifeBuzz",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
+          }
+        },
+        {
+          "id": 2,
+          "gallery_id": "13110556322239028",
+          "name": "Runnaz Magnificent Photos",
+          "photographer": {
+            "id": 2,
+            "name": "Runnaz Magnificent Photos",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
+          }
+        },
+      ],
+      "packages": [
+
+      ]
+    },
+  ],
+  "pink": [
+    {
+      "id": 7,
+      "name": "Pink",
+      "venue": {
+        "id": 2,
+        "name": "Balance HQ",
+        "street": "Off York Ave",
+        "street_details": "",
+        "city": "Cockburn Pen",
+        "state": "Kingston",
+        "country": "Jamaica"
+      },
+      "description": "",
+      "flyer": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/16422909_10100283834871505_6731729043304076230_o.jpg?oh=dd10ebfbee292dd2640f16d064e44b19&oe=5AC73A3C",
+      "date": "2017-04-15",
+      "videos": [
+        {
+          "id": 7,
+          "name": "Pink Highlight",
+          "video_link": "YEQlaE_tgy0",
+          "video_image": "http://img.youtube.com/vi/YEQlaE_tgy0/hqdefault.jpg",
+          "event_id": 7
+        }
+      ],
+      "photo_galleries": [
+        {
+          "id": 1,
+          "gallery_id": "1311055632282429",
+          "name": "NiteLifeBuzz",
+          "photographer": {
+            "id": 1,
+            "name": "NiteLifeBuzz",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t31.0-8/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"
+          }
+        },
+        {
+          "id": 2,
+          "gallery_id": "13110556322239028",
+          "name": "Runnaz Magnificent Photos",
+          "photographer": {
+            "id": 2,
+            "name": "Runnaz Magnificent Photos",
+            "logo": "https://scontent.fktp1-1.fna.fbcdn.net/v/t1.0-9/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"
+          }
+        },
+      ],
+      "packages": [
+
+      ]
+    }
+  ],
+  "sos": [
+  ]
+}

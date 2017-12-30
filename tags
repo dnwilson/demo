@@ -1,0 +1,86 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+city	db.json	/^        "city": "",$/;"	f
+city	db.json	/^        "city": "Cockburn Pen",$/;"	f
+country	db.json	/^        "country": "Jamaica"$/;"	f
+date	db.json	/^      "date": "2016-03-25",$/;"	f
+date	db.json	/^      "date": "2016-03-26",$/;"	f
+date	db.json	/^      "date": "2017-03-30",$/;"	f
+date	db.json	/^      "date": "2017-04-14",$/;"	f
+date	db.json	/^      "date": "2017-04-15",$/;"	f
+date	db.json	/^      "date": "2018-03-30",$/;"	f
+date	db.json	/^      "date": "2018-03-31",$/;"	f
+description	db.json	/^      "description": "",$/;"	f
+event_id	db.json	/^          "event_id": 4$/;"	f
+event_id	db.json	/^          "event_id": 5$/;"	f
+event_id	db.json	/^          "event_id": 7$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.cdninstagram.com\/t51.2885-15\/s640x640\/sh0.08\/e35\/25007044_1736183533099812_2919328286574116864_n.jpg",$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/12052543_10100124395793695_1965978597515231083_o.jpg?oh=841ab41d7c07926116eae02b91e7e156&oe=5AC21EF5",$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/15000651_10100247187617895_5084240487115393336_o.jpg?oh=30894bb605eb4cc7e0ad0b2764068ac0&oe=5AF84A68",$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/15732035_10153987063191104_9162910928908976148_o.jpg?oh=913cd86b7e4360935f34db0522ae669e&oe=5AB807E0",$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/16422909_10100283834871505_6731729043304076230_o.jpg?oh=dd10ebfbee292dd2640f16d064e44b19&oe=5AC73A3C",$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/24958960_10154860653021104_3079696981149327056_o.jpg?oh=b105623191eb1b746c3918685376ec38&oe=5AF39857",$/;"	f
+flyer	db.json	/^      "flyer": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/p960x960\/12819323_10153298704596104_6284030011554547434_o.jpg?oh=53cd8e62cc20d1a838511b3496f9af97&oe=5AF4294E",$/;"	f
+gallery_id	db.json	/^          "gallery_id": "13110556322239028",$/;"	f
+gallery_id	db.json	/^          "gallery_id": "1311055632282429",$/;"	f
+id	db.json	/^            "id": 1,$/;"	f
+id	db.json	/^            "id": 2,$/;"	f
+id	db.json	/^          "id": 1,$/;"	f
+id	db.json	/^          "id": 2,$/;"	f
+id	db.json	/^          "id": 4,$/;"	f
+id	db.json	/^          "id": 7,$/;"	f
+id	db.json	/^        "id": 1,$/;"	f
+id	db.json	/^        "id": 2,$/;"	f
+id	db.json	/^        "id": 3,$/;"	f
+id	db.json	/^        "id": 4,$/;"	f
+id	db.json	/^      "id": 1,$/;"	f
+id	db.json	/^      "id": 2,$/;"	f
+id	db.json	/^      "id": 3,$/;"	f
+id	db.json	/^      "id": 5,$/;"	f
+id	db.json	/^      "id": 7,$/;"	f
+id	db.json	/^      "id": 9,$/;"	f
+international_swagg	db.json	/^  "international_swagg": [$/;"	f
+logo	db.json	/^            "logo": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t1.0-9\/25289661_1974379922829131_5016777069623546312_n.jpg?oh=fca66ad9b90903fe62cc8061eac80eeb&oe=5AF93712"$/;"	f
+logo	db.json	/^            "logo": "https:\/\/scontent.fktp1-1.fna.fbcdn.net\/v\/t31.0-8\/10518299_526135190848529_6644425448163753057_o.png?oh=372d8c7118b50d9948019dfcfc971e6c&oe=5AF6980A"$/;"	f
+name	db.json	/^            "name": "NiteLifeBuzz",$/;"	f
+name	db.json	/^            "name": "Runnaz Magnificent Photos",$/;"	f
+name	db.json	/^          "name": "NiteLifeBuzz",$/;"	f
+name	db.json	/^          "name": "Ovadose 2017",$/;"	f
+name	db.json	/^          "name": "Ovadose",$/;"	f
+name	db.json	/^          "name": "Pink Highlight",$/;"	f
+name	db.json	/^          "name": "Runnaz Magnificent Photos",$/;"	f
+name	db.json	/^        "name": "Balance HQ",$/;"	f
+name	db.json	/^        "name": "Damage Control HQ",$/;"	f
+name	db.json	/^        "name": "Enid Anglin Center",$/;"	f
+name	db.json	/^        "name": "Next Yard",$/;"	f
+name	db.json	/^        "name": "Steve Madden Plaze",$/;"	f
+name	db.json	/^      "name": "International Swagg 2016",$/;"	f
+name	db.json	/^      "name": "International Swagg 2017",$/;"	f
+name	db.json	/^      "name": "International Swagg 2018",$/;"	f
+name	db.json	/^      "name": "Ovadose 2016",$/;"	f
+name	db.json	/^      "name": "Ovadose 2017",$/;"	f
+name	db.json	/^      "name": "Ovadose 2018",$/;"	f
+name	db.json	/^      "name": "Pink",$/;"	f
+ovadose	db.json	/^  "ovadose": [$/;"	f
+packages	db.json	/^      "packages": [$/;"	f
+photo_galleries	db.json	/^      "photo_galleries": [$/;"	f
+photographer	db.json	/^          "photographer": {$/;"	f
+pink	db.json	/^  "pink": [$/;"	f
+sos	db.json	/^  "sos": [$/;"	f
+state	db.json	/^        "state": "Kingston",$/;"	f
+street	db.json	/^        "street": "15 York Ave",$/;"	f
+street	db.json	/^        "street": "23 Half Way Tree Road",$/;"	f
+street	db.json	/^        "street": "23 Orange Street",$/;"	f
+street	db.json	/^        "street": "Next to Admiral Town Police Station",$/;"	f
+street	db.json	/^        "street": "Off York Ave",$/;"	f
+street_details	db.json	/^        "street_details": "",$/;"	f
+venue	db.json	/^      "venue": {$/;"	f
+video_image	db.json	/^          "video_image": "http:\/\/img.youtube.com\/vi\/YEQlaE_tgy0\/hqdefault.jpg",$/;"	f
+video_image	db.json	/^          "video_image": "http:\/\/img.youtube.com\/vi\/h1d-FS1hrF0\/hqdefault.jpg",$/;"	f
+video_link	db.json	/^          "video_link": "YEQlaE_tgy0",$/;"	f
+video_link	db.json	/^          "video_link": "h1d-FS1hrF0",$/;"	f
+videos	db.json	/^      "videos": [$/;"	f
